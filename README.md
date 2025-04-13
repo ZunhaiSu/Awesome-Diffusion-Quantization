@@ -11,12 +11,12 @@
 |[An Analysis on Quantizing Diffusion Transformers](https://arxiv.org/abs/2406.11100)||Meta GenAI||
 |[Post-Training Quantization for Diffusion Transformer via Hierarchical Timestep Grouping](https://arxiv.org/pdf/2503.06930)||Peking University||
 |[TQ-DiT: Efficient Time-Aware Quantization for Diffusion Transformers](https://arxiv.org/pdf/2502.04056)||KAIST||
-|[TR-DQ: Time-Rotation Diffusion Quantization]||PKU||
+|[TR-DQ: Time-Rotation Diffusion Quantization](https://arxiv.org/abs/2503.06564)||PKU||
 |[FP4DiT: Towards Effective Floating Point Quantization for Diffusion Transformers](https://arxiv.org/pdf/2503.15465)||University of Alberta|https://github.com/cccrrrccc/FP4DiT|
 
 
 
 # PTQ for Latent Diffusion Models
-|Paper|Conference|Author|
+|Paper|Conference|Author|Code|
 |:---:|:---:|:---:|:---:|
 |||||

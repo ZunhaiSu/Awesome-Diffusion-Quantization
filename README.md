@@ -1,7 +1,6 @@
 # PTQ for Diffusion Transformers
 |Paper|Conference|Author|Code|
 |:---:|:---:|:---:|:---:|
-|[TR-DQ: Time-Rotation Diffusion Quantization](https://arxiv.org/abs/2503.06564)|ICCV2025 under review|PKU||
 |[TaQ-DiT: Time-aware Quantization for Diffusion Transformers](https://arxiv.org/abs/2411.14172)||Nanjing University|https://github.com/yhwangs/TQ-DiT|
 |[PTQ4DiT: Post-training Quantization for Diffusion Transformers](https://arxiv.org/abs/2405.16005)|Neurips 2024|University of Illinois Chicago|https://github.com/adreamwu/PTQ4DiT|
 |[Q-DiT: Accurate Post-Training Quantization for Diffusion Transformers](https://arxiv.org/abs/2406.17343)|CVPR 2025|Tsinghua University|https://github.com/Juanerx/Q-DiT|
@@ -11,7 +10,8 @@
 |[VQ4DiT: Efficient Post-Training Vector Quantization for Diffusion Transformers](https://arxiv.org/abs/2408.17131)||Zhejiang University||
 |[An Analysis on Quantizing Diffusion Transformers](https://arxiv.org/abs/2406.11100)||Meta GenAI||
 |[Post-Training Quantization for Diffusion Transformer via Hierarchical Timestep Grouping](https://arxiv.org/pdf/2503.06930)||Peking University||
-|[TQ-DiT: Efficient Time-Aware Quantization for Diffusion Transformers](https://arxiv.org/pdf/2502.04056)||KAIST||
+|[TQ-DiT: Efficient Time-Aware Quantization for Diffusion Transformers](https://arxiv.org/pdf/2502.04056)|ICME 2025 Submission|KAIST||
+|[TR-DQ: Time-Rotation Diffusion Quantization](https://arxiv.org/abs/2503.06564)||PKU||
 |[FP4DiT: Towards Effective Floating Point Quantization for Diffusion Transformers](https://arxiv.org/pdf/2503.15465)||University of Alberta|https://github.com/cccrrrccc/FP4DiT|
 
 
